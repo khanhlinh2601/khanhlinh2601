@@ -2,7 +2,7 @@
 
 ## :sassy_man:  About me
 
-- :school: I'm currently the 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- :school: I'm currently the 4rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 
